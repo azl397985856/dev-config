@@ -117,13 +117,13 @@ source /Users/luxiaopeng/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 ```
 
-### VSCODE
-#### setting
+## VSCODE
+### setting
 gitID：7a78ffb25f4c82f0269552c49fc3f0fb
 
 使用setting syn，输入上面的gistId 即可下载对应配置
 
-#### extensions
+### extensions
 ```bash
 ➜  ~/.vscode/extensions
 ➜  extensions ls
@@ -139,3 +139,5 @@ octref.vetur-0.11.7
 shinnn.stylelint-0.33.3
 waderyan.gitblame-2.4.1
 ```
+
+## 未完待续
