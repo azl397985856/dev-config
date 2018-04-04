@@ -119,7 +119,7 @@ source /Users/luxiaopeng/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 ## VSCODE
 ### setting
-gitID：7a78ffb25f4c82f0269552c49fc3f0fb
+gistID：7a78ffb25f4c82f0269552c49fc3f0fb
 
 使用setting syn，输入上面的gistId 即可下载对应配置
 
