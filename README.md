@@ -118,6 +118,24 @@ source /Users/luxiaopeng/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 ```
 
 ### VSCODE
+#### setting
 gitID：7a78ffb25f4c82f0269552c49fc3f0fb
 
 使用setting syn，输入上面的gistId 即可下载对应配置
+
+#### extensions
+```bash
+➜  ~/.vscode/extensions
+➜  extensions ls
+KnisterPeter.vscode-commitizen-0.5.0
+Shan.code-settings-sync-2.9.0
+christian-kohler.npm-intellisense-1.3.0
+christian-kohler.path-intellisense-1.4.2
+dbaeumer.vscode-eslint-1.4.8
+esbenp.prettier-vscode-1.2.2
+jcbuisson.vue-0.1.5
+msjsdiag.debugger-for-chrome-4.3.0
+octref.vetur-0.11.7
+shinnn.stylelint-0.33.3
+waderyan.gitblame-2.4.1
+```
