@@ -123,6 +123,8 @@ gistID：7a78ffb25f4c82f0269552c49fc3f0fb
 
 使用setting syn，输入上面的gistId 即可下载对应配置
 
+配置同步地址： https://gist.github.com/azl397985856/7a78ffb25f4c82f0269552c49fc3f0fb
+
 ### extensions
 ```bash
 ➜  ~/.vscode/extensions
