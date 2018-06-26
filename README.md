@@ -142,4 +142,82 @@ shinnn.stylelint-0.33.3
 waderyan.gitblame-2.4.1
 ```
 
+## WTF-util
+```yml
+wtf:
+  colors:
+    background: black
+    border:
+      focusable: darkslateblue
+      focused: orange
+      normal: white
+  term: "xterm-256color"
+  grid:
+    columns: [35, 35, 35, 35, 35, 35]
+    rows: [10, 10, 10, 10, 10, 3, 4]
+  refreshInterval: 1
+  mods:
+    git:
+      commitCount: 5
+      commitFormat: "[forestgreen]%h [grey]%cd [white]%s [grey]%an[white]"
+      dateFormat: "%H:%M %d %b %y"
+      enabled: true
+      position:
+        top: 0
+        left: 2
+        height: 2
+        width: 2
+      refreshInterval: 8
+      repositories:
+        - "/Users/luxiaopeng/duiba-h5-sign/"
+        - "/Users/luxiaopeng/duiba-h5-activity/"
+    todo:
+      checkedIcon: "X"
+      colors:
+        checked: gray
+        highlight:
+          fore: "black"
+          back: "orange"
+      enabled: true
+      filename: "todo.yml"
+      position:
+        top: 0
+        left: 0
+        height: 1
+        width: 1
+      refreshInterval: 3600
+    ipinfo:
+      colors:
+        name: blue
+        value: white
+      enabled: true
+      position:
+        top: 0
+        left: 1
+        height: 1
+        width: 1
+      refreshInterval: 150
+    gitlab:
+      enabled: true
+      position:
+        top: 1
+        left: 0
+        height: 2
+        width: 2
+      refreshInterval: 300
+      domain: "http://gitlab2.dui88.com"
+      projects:
+        duiba-h5-activity: "frontend"
+      username: "lucifer"
+    system:
+      enabled: true
+      position:
+        top: 2
+        left: 2
+        height: 1
+        width: 2
+      refreshInterval: 3600
+
+```
+
 ## 未完待续
