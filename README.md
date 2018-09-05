@@ -229,8 +229,12 @@ wtf:
 
 [配置文件](https://github.com/azl397985856/dev-config/blob/master/iTerm/com.googlecode.iterm2.plist)
 
-## charles
+## Charles
 
 [配置文件](https://github.com/azl397985856/dev-config/blob/master/charles/)
+
+## Dash
+
+[配置文件](https://github.com/azl397985856/dev-config/blob/master/dash/Dash.dashsync)
 
 ## 未完待续
