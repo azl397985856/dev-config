@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<?charles serialisation-version='2.0' ?>
+<gist>
+  <publishLimit>10</publishLimit>
+  <secret>true</secret>
+  <encryptedAuthToken>U5ImVKiNALmEgUTFpPY5w1m+y8aEZ4nDOawruCLztcdJIstH9k60i/xjweePTWhs/2UwL7szHME=</encryptedAuthToken>
+  <openGist>true</openGist>
+  <enterpriseGitHub>false</enterpriseGitHub>
+</gist>

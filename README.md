@@ -1,6 +1,9 @@
 # dev-config
+
 开发过程中一系列工具的配置
+
 ## zsh
+
 ```
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
@@ -114,18 +117,20 @@ export PATH="$PATH:$HOME/.rvm/bin"
 # uninstall by removing these lines or running `tabtab uninstall electron-forge`
 [[ -f /Users/luxiaopeng/.nvm/versions/node/v8.9.3/lib/node_modules/electron-forge/node_modules/.2.2.2@tabtab/.completions/electron-forge.zsh ]] && . /Users/luxiaopeng/.nvm/versions/node/v8.9.3/lib/node_modules/electron-forge/node_modules/.2.2.2@tabtab/.completions/electron-forge.zsh
 source /Users/luxiaopeng/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
 ```
 
 ## VSCODE
+
 ### setting
+
 gistID：7a78ffb25f4c82f0269552c49fc3f0fb
 
-使用setting syn，输入上面的gistId 即可下载对应配置
+使用 setting syn，输入上面的 gistId 即可下载对应配置
 
 配置同步地址： https://gist.github.com/azl397985856/7a78ffb25f4c82f0269552c49fc3f0fb
 
 ### extensions
+
 ```bash
 ➜  ~/.vscode/extensions
 ➜  extensions ls
@@ -143,6 +148,7 @@ waderyan.gitblame-2.4.1
 ```
 
 ## WTF-util
+
 ```yml
 wtf:
   colors:
@@ -217,7 +223,14 @@ wtf:
         height: 1
         width: 2
       refreshInterval: 3600
-
 ```
+
+## Iterm
+
+[配置文件](https://github.com/azl397985856/dev-config/blob/master/iTerm/com.googlecode.iterm2.plist)
+
+## charles
+
+[配置文件](https://github.com/azl397985856/dev-config/blob/master/charles/)
 
 ## 未完待续
