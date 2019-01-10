@@ -241,4 +241,12 @@ wtf:
 
 [配置文件](https://github.com/azl397985856/dev-config/blob/master/alfred/)
 
+## Anki
+
+[仓库备份](./anki/集合-2019-01-10@16-38-26.colpkg)
+
+[主题](./anki/theme)
+
+[add-ons](./anki/addons)
+
 ## 未完待续
