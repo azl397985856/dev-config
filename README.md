@@ -103,6 +103,12 @@ alias cls='clear'
 alias nis='cnpm i --save'
 alias myip='curl http://ipecho.net/plain'
 alias s="sudo"
+alias bci="brew cask install"
+alias bi="brew install"
+
+# Proxy
+alias proxy='export all_proxy=socks5://127.0.0.1:1086'
+alias unproxy='unset all_proxy'
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
