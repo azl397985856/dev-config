@@ -14,7 +14,22 @@ export ZSH=/Users/luxiaopeng/.oh-my-zsh
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="robbyrussell"
+ZSH_THEME="agnoster"
+ # to hide the username@hostname
+USER=``
+
+# alias
+alias cls='clear'
+alias free='top -l 1 | head -n 10 | grep PhysMem'
+alias nis='cnpm i --save'
+alias myip='curl http://ipecho.net/plain'
+alias s="sudo"
+alias proxy='export all_proxy=socks5://127.0.0.1:1086'
+alias unproxy='unset all_proxy'
+# nvm
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 # Set list of themes to load
 # Setting this variable when ZSH_THEME=random
 # cause zsh load theme from this variable instead of
@@ -67,6 +82,8 @@ ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
 plugins=(
   git
   git-flow
+  autojump
+  zsh-autosuggestions
 )
 
 source $ZSH/oh-my-zsh.sh
