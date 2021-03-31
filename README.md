@@ -4,7 +4,7 @@
 
 ## vim
 ```
-inoremap jk <ESC>
+inoremap jk <ESC> # map jk to esc
 syntax on # highlight syntax
 set number # show line numbers
 set noswapfile # disable the swapfile
